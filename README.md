@@ -20,7 +20,7 @@ The ultimate modern frontend boilerplate with **React 18**, **Vite 5**, **Redux 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/react-vite-redux-tailwind-starter.git
+git clone https://github.com/abhinay-kushwaha/react-vite-redux-tailwind-starter.git
 cd react-vite-redux-tailwind-starter
 npm install
 npm run dev
